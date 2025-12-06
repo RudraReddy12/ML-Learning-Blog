@@ -11,7 +11,7 @@ In this blog, we cover the three most commonly used scaling techniques:
 
 ---
 
-# 🧮 1. StandardScaler
+#  1. StandardScaler
 
 ##  What it does
 StandardScaler transforms features such that:
@@ -27,7 +27,7 @@ X_{\text{scaled}} = \frac{X - \mu}{\sigma}
 
 ---
 
-## 📌 When to use
+##  When to use
 - When data follows a **normal distribution**
 - Works well for:
   - Logistic Regression  
