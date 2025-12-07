@@ -1,4 +1,4 @@
-# 📘 Day 01 – Introduction to Machine Learning
+# 📘 Day 01 – Introduction to Machine Learning.
 
 ## Date  
 3/12/2025
