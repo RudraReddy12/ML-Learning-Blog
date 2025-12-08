@@ -9,8 +9,8 @@
 ---
 
 ### Basic Terminology:
--**Scalar**: Any single value in an observation is a scalar.
--**Vector**:Every observation in the dataset is a vector.
+- **Scalar**: Any single value in an observation is a scalar.
+- **Vector**:Every observation in the dataset is a vector.
 
 ---
 
