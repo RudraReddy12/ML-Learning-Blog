@@ -1,6 +1,6 @@
 # Linear Algebra
 ---
-### Why and what is algebra
+### Why algebra used in ML
 - It is a study of linear equation.
 - Deals with vector spaces and a special Transformation with vector spaces called as Linear Transformation.
 - To solve a ML Problem with n-Dimensions(n-Features) , with our basic visual skills we can see upto 3-Dimensions.
